@@ -22,7 +22,7 @@
     <p>The app is primarily developed using Java and Kotlin, ensuring a robust and flexible codebase that takes advantage of modern Android development practices.</p>
     <h3 id="version-control">Version Control</h3>
     <p>We manage the source code for this project using Git and host the repository on GitHub. This allows for collaboration among team members and easy tracking of changes.</p>
-    <p>GitHub Repository: <a href="https://github.com/yourusername/wellness-buddy">Wellness Buddy GitHub Repository</a></p>
+    <p>GitHub Repository: <a href="https://github.com/NittanyLions42/wellness-buddy">Wellness Buddy GitHub Repository</a></p>
     <h3 id="apis-selection">APIs Selection</h3>
     <p>To provide accurate weather data and location information, we have chosen the following APIs:</p>
     <ul>

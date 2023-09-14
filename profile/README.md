@@ -3,7 +3,7 @@
 <body>
   <h1>Welcome to the Wellness Buddy App Repository</h1>
     <h2 id="started">Getting Started</h2>
-    <p> Set up your local environment </p>
+    <p> Navigate to <a href="https://github.com/NittanyLions42/wellnessbuddy">Wellness Buddy GitHub Repository</a></p></p>
     <h2 id="purpose">Purpose</h2>
     <p>The Wellness Buddy App is designed to help students at Pennsylvania State University and users everywhere make healthy lifestyle choices, particularly when it comes to dealing with stress and maintaining physical health. Often, students get caught up in the demands of coursework and daily life, and they may not think about healthy ways to de-stress. The app leverages real-time weather data to suggest wellness activities based on the current weather conditions, providing users with valuable suggestions to improve their well-being and make more positive lifestyle choices.</p>
     <h2 id="scope">Scope</h2>
@@ -23,7 +23,7 @@
     <p>The app is primarily developed using Java and Kotlin, ensuring a robust and flexible codebase that takes advantage of modern Android development practices.</p>
     <h3 id="version-control">Version Control</h3>
     <p>We manage the source code for this project using Git and host the repository on GitHub. This allows for collaboration among team members and easy tracking of changes.</p>
-    <p>GitHub Repository: <a href="https://github.com/NittanyLions42/wellness-buddy">Wellness Buddy GitHub Repository</a></p>
+    <p>GitHub Repository: <a href="https://github.com/NittanyLions42/wellnessbuddy">Wellness Buddy GitHub Repository</a></p>
     <h3 id="apis-selection">APIs Selection</h3>
     <p>To provide accurate weather data and location information, we have chosen the following APIs:</p>
     <ul>

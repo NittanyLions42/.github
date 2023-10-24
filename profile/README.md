@@ -27,11 +27,9 @@ We manage the source code for this project using Git and host the repository on 
 ### APIs Selection
 To provide accurate weather data and location information, we have chosen the following APIs:
 - AccuWeather: AccuWeather is our primary source for weather forecasting data, enabling us to offer real-time and accurate weather information.
-- Google Maps: For location-based services, we rely on Google Maps, which is integrated into the AccuWeather API based on IP address for precise location data.
 
 ## Resources
 - [AccuWeather API Documentation](https://developer.accuweather.com/apis)
-- [Google Maps API Documentation](https://developers.google.com/maps/documentation)
 - [Gradle Documentation](https://docs.gradle.org/current/userguide/userguide.html)
 - [GitHub Documentation](https://docs.github.com/en)
 - [Android Developer Documentation](https://developer.android.com/docs)
